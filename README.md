@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💬 Ask me about .NET / JS development
+- 📫 How to reach me: sergii.lischuk@gmail.com
+- 📖 Sharing some thoughs here: http://leefrost.github.io or on medium
+- 🥋 Passionate of: Machine learning / Data analysis / IOT
+
 <!--
 **Leefrost/Leefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

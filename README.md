@@ -3,8 +3,8 @@
 ## I do the web magic and do it in the right way
 - 💬 Ask me about .NET / JS development
 - 📫 How to reach me: sergii.lischuk@gmail.com
-- 📖 Sharing some thoughts here: http://leefrost.github.io or on medium
-- ⛏ Passionate in: Machine learning / Data analysis / IOT
+- 🤔 Sharing some thoughts here: http://leefrost.github.io or on medium
+- 🏹 Passionate in: Machine learning / Data analysis / IOT
 
 ### Connect with me:
 

@@ -40,6 +40,7 @@
 [<img align="left" alt="HackerRank" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />](http://codewars.com)
 [<img align="left" alt="HackerRank" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](http://HackerRank.com)
 [<img align="left" alt="LeetCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](http://LeetCode.com)
+[<img align="left" alt="Exercism" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/exercism.svg" />](http://exercism.com)
 
 <br />
 <br />

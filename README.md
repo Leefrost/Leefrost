@@ -48,3 +48,4 @@
 ---
 
 <img align="left" alt="Leefrost Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leefrost&show_icons=true&hide_border=true" />
+<img align="left" alt="Leefrost Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leefrost&layout=compact&hide_border=true" />

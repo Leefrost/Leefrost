@@ -1,4 +1,4 @@
-### Hi there, I'm Sergii - aka [Leefrost](http://leefrost.github.io) 👋
+### Hi there, I'm Sergii Lischuk, [Leefrost](http://leefrost.github.io) 👋
 
 ## I do the web magic and do it in the right way
 - 💬 Ask me about .NET / JS development

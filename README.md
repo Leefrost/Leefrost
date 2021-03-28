@@ -1,51 +1,104 @@
 ### Hi there, I'm Sergii Lischuk, [Leefrost](http://leefrost.github.io) 👋
 
-## I do the web magic and do it in the right way
+#### I am doing programming magic since 2010
+
 - 💬 Ask me about .NET / JS development
 - 📫 How to reach me: sergii.lischuk@gmail.com
-- 🤔 Sharing some thoughts here: http://leefrost.github.io or on medium
+- 🤔 Sharing some thoughts, ideas and solutions here: [Code story](http://leefrost.github.io)
 - 🏹 Passionate in: Machine learning / Data analysis / IOT
 
-### Connect with me:
+#### Contact with me:
 
-[<img align="left" alt="leefrost.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://leefrost.github.io)
-[<img align="left" alt="Leefrost | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/LeeFrost_)
-[<img align="left" alt="Leefrost | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/sergii.lischuk/)
-[<img align="left" alt="Leefrost | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sergiilischuk/)
+<a href="mailto:sergii.lischuk@gmail.com">
+  <img align="left" alt="Sergii Lischuk | Gmail" width="20px" src="/assets/gmail.svg" />
+</a>
+
+<a href="http://leefrost.github.io">
+  <img align="left" alt="Sergii Lischuk | Code story" width="20px" src="/assets/internetexplorer.svg" />
+</a>
+
+<a href="https://twitter.com/LeeFrost_">
+  <img align="left" alt="Sergii Lischuk | Twitter" width="20px" src="/assets/twitter.svg" />
+</a>
+
+<a href="https://www.facebook.com/sergii.lischuk">
+  <img align="left" alt="Sergii Lischuk | Facebook" width="20px" src="/assets/facebook.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/sergiilischuk/">
+  <img align="left" alt="Sergii Lischuk | LinkedIn" width="20px" src="/assets/linkedin.svg" />
+</a>
+
+<br />
+
+#### Languages, frameworks and tools:
+
+<a href="https://visualstudio.microsoft.com/">
+  <img align="left" alt="Visual Studio" width="20px" src="/assets/visualstudio.svg" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="Visual Studio Code" width="20px" src="/assets/visualstudiocode.svg" />
+</a>
+
+<a href="https://www.docker.com/">
+  <img align="left" alt="Docker" width="20px" src="/assets/docker.svg" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img align="left" alt="Git" width="20px" src="/assets/git.svg" />
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+  <img align="left" alt="Dotnet" width="20px" src="/assets/dot-net.svg" />
+</a>
+
+<a href="https://graphql.org/">
+  <img align="left" alt="Typescript" width="20px" src="/assets/typescript.svg" />
+</a>
+
+<a href="https://graphql.org/">
+  <img align="left" alt="GraphQL" width="20px" src="/assets/graphql.svg" />
+</a>
+
+<a href="https://angular.io/">
+  <img align="left" alt="Angular" width="20px" src="/assets/angular.svg" />
+</a>
+
+<a href="https://nodejs.org/">
+  <img align="left" alt="Angular" width="20px" src="/assets/node-dot-js.svg" />
+</a>
+
+<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019">
+  <img align="left" alt="SQL" width="20px" src="/assets/microsoftsqlserver.svg" />
+</a>
+
+<a href="https://azure.microsoft.com/">
+  <img align="left" alt="Azure" width="20px" src="/assets/microsoftazure.svg" />
+</a>
+
+<a href="https://aws.amazon.com/">
+  <img align="left" alt="Amazon AWS" width="20px" src="/assets/amazonaws.svg" />
+</a>
 
 <br />
 
-### Languages and Tools:
+#### Challenging in:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt=".Net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />](https://dotnet.microsoft.com/)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](https://angular.io/)
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/uk/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />](https://aws.amazon.com/)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+<a href="http://codewars.com">
+  <img align="left" alt="Codewars" width="20px" src="/assets/codewars.svg" />
+</a>
 
-<br />
-<br />
+<a href="https://www.hackerrank.com/">
+  <img align="left" alt="hakerrank" width="20px" src="/assets/hackerrank.svg" />
+</a>
 
----
+<a href="https://leetcode.com/">
+  <img align="left" alt="Leetcode" width="20px" src="/assets/leetcode.svg" />
+</a>
 
-### Challenging in:
-
-[<img align="left" alt="HackerRank" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />](http://codewars.com)
-[<img align="left" alt="HackerRank" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](http://HackerRank.com)
-[<img align="left" alt="LeetCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](http://LeetCode.com)
-[<img align="left" alt="Exercism" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/exercism.svg" />](http://exercism.com)
+<a href="https://exercism.io/">
+  <img align="left" alt="Exercism" width="20px" src="/assets/exercism.svg" />
+</a>
 
 <br />
-<br />
-
----
-
-<img align="left" alt="Leefrost Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leefrost&show_icons=true&hide_border=true" />
-<img align="left" alt="Leefrost Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leefrost&layout=compact&hide_border=true" />

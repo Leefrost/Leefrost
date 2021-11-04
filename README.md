@@ -4,7 +4,7 @@
 
 - 💬 Ask me about .NET / JS development
 - 📫 How to reach me: sergii.lischuk@gmail.com
-- 🤔 Sharing some thoughts, ideas and solutions here: [Code story](http://leefrost.github.io)
+- 🤔 Sharing some thoughts, ideas and solutions here: [Dev.to](https://dev.to/leefrost) and [Code story](http://leefrost.github.io)
 - 🏹 Passionate in: Machine learning / Data analysis / IOT
 
 #### Contact with me:

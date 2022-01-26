@@ -1,11 +1,12 @@
 ### Hi there, I'm Sergii Lischuk, [Leefrost](http://leefrost.github.io) 👋
 
-#### I am doing programming magic since 2010
+#### I am doing code magic since 2010
 
-- 💬 Ask me about .NET / JS development
-- 📫 How to reach me: sergii.lischuk@gmail.com
-- 🤔 Sharing some thoughts, ideas and solutions here: [Dev.to](https://dev.to/leefrost) and [Code story](http://leefrost.github.io)
-- 🏹 Passionate in: Machine learning / Data analysis / IOT
+- 💬 Ask me anything about .NET / JS development.
+- 📜 Learning Python and Go.
+- 📓 Writing tech articles on [Dev.to](https://dev.to/leefrost).
+- 🔥 Passionate in Machine learning / Data analysis / IOT.
+- 🎙️ Working on tech and lifehack podcasts (soon!)
 
 #### Contact with me:
 

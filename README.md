@@ -3,7 +3,7 @@
 #### I am doing code magic since 2014
 
 - 💬 Ask me anything about .NET / JS development.
-- 📜 Learning Python and Go.
+- 📜 Learning Scala and Go.
 - 📓 Writing tech articles on [Dev.to](https://dev.to/leefrost).
 - 🔥 Passionate in Machine learning / Data analysis / IOT.
 - 🎙️ Working on tech and lifehack podcasts (soon!)

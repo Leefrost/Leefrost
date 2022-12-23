@@ -7,6 +7,8 @@
 * "Test-Driven Development By Example" by Kent Beck
 * "Domain-Driven Design" by Eric Evans
 * "Adaptive Code: Agile coding with design patterns and SOLID principles (Best Practices)" by Gary McLean Hall
+* "System Design Interview: An Insider's Guide" by Alex Xu
+
 
 ## In queue:
 

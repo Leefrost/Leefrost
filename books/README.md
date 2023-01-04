@@ -14,3 +14,4 @@
 
 * "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * "Functional Programming in Scala" by Paul Chiusano and Rúnar Bjarnason
+* "System Design Interview 2: An Insider's Guide" by Alex Xu

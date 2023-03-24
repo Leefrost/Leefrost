@@ -8,10 +8,9 @@
 * "Domain-Driven Design" by Eric Evans
 * "Adaptive Code: Agile coding with design patterns and SOLID principles (Best Practices)" by Gary McLean Hall
 * "System Design Interview: An Insider's Guide" by Alex Xu
+* "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 
 
 ## In queue:
-
-* "Refactoring: Improving the Design of Existing Code" by Martin Fowler
 * "Functional Programming in Scala" by Paul Chiusano and Rúnar Bjarnason
 * "System Design Interview 2: An Insider's Guide" by Alex Xu

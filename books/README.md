@@ -14,4 +14,8 @@
 ## In queue:
 * "Functional Programming in Scala" by Paul Chiusano and Rúnar Bjarnason
 * "System Design Interview 2: An Insider's Guide" by Alex Xu
-* 
+* Refactoring 2nd edition Martin Fowler
+* Software architect handbook (Packt)
+* Software Architecture - The hard Parts (ORelly)
+* Object Thinking. David West
+* Analysis Patterns. Martin Fowler

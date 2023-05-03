@@ -19,3 +19,4 @@
 * Software Architecture - The hard Parts (ORelly)
 * Object Thinking. David West
 * Analysis Patterns. Martin Fowler
+* Pro dotnet benchmarking. Andrey Akinishin

@@ -53,7 +53,7 @@
   <img align="left" alt="Dotnet" width="20px" src="/assets/dot-net.svg" />
 </a>
 
-<a href="https://graphql.org/">
+<a href="https://www.typescriptlang.org/docs">
   <img align="left" alt="Typescript" width="20px" src="/assets/typescript.svg" />
 </a>
 
@@ -69,7 +69,7 @@
   <img align="left" alt="Angular" width="20px" src="/assets/node-dot-js.svg" />
 </a>
 
-<a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019">
+<a href="https://www.microsoft.com/sql-server/sql-server-2019">
   <img align="left" alt="SQL" width="20px" src="/assets/microsoftsqlserver.svg" />
 </a>
 

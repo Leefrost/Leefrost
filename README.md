@@ -1,11 +1,11 @@
 ### Hi there, I'm Sergii Lischuk, [Leefrost](http://leefrost.github.io) 👋
 
-#### I am doing code magic since 2014
+#### I am doing code magic since 2014.
 
 - 💬 Ask me anything about .NET / JS development.
 - 📜 Learning Scala and Go.
 - 📓 Writing tech articles on [Dev.to](https://dev.to/leefrost).
-- 🔥 Passionate in Machine learning / Data analysis / IOT.
+- 🔥 Passionate in Machine learning / Data analysis / IOT / AI.
 
 #### Contact with me:
 
@@ -13,13 +13,13 @@
   <img align="left" alt="Sergii Lischuk | Gmail" width="20px" src="/assets/gmail.svg" />
 </a>
 
-<a href="http://leefrost.github.io">
+<!-- <a href="http://leefrost.github.io">
   <img align="left" alt="Sergii Lischuk | Code story" width="20px" src="/assets/internetexplorer.svg" />
-</a>
+</a> -->
 
-<a href="https://twitter.com/LeeFrost_">
-  <img align="left" alt="Sergii Lischuk | Twitter" width="20px" src="/assets/twitter.svg" />
-</a>
+<!-- <a href="https://x.com/LeeFrost_">
+  <img align="left" alt="Sergii Lischuk | X" width="20px" src="/assets/twitter.svg" />
+</a> -->
 
 <a href="https://www.facebook.com/sergii.lischuk">
   <img align="left" alt="Sergii Lischuk | Facebook" width="20px" src="/assets/facebook.svg" />
